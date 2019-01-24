@@ -1,0 +1,13 @@
+﻿  main.cpp
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(182): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(199): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(200): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(227): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(249): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(253): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(301): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(313): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(340): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\main.cpp(352): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project 1.4.vcxproj -> E:\USB BACK UP\Jordan Murray\Term 2\C++\Project\Project1.4\Project 1.4\Debug\Project 1.4.exe
+  Project 1.4.vcxproj -> E:\USB BACK UP\Jordan Murray\Term 2\C++\Project\Project1.4\Project 1.4\Debug\Project 1.4.pdb (Partial PDB)

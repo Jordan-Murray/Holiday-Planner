@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  main.cpp
+e:\usb back up\jordan murray\term 2\c++\project\file to submit\project 1.4\main.cpp(217): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\file to submit\project 1.4\main.cpp(235): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\file to submit\project 1.4\main.cpp(293): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\usb back up\jordan murray\term 2\c++\project\file to submit\project 1.4\main.cpp(387): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Hotel.cpp
+  Destination.cpp
+  Generating Code...
+e:\usb back up\jordan murray\term 2\c++\project\file to submit\project 1.4\hotel.cpp(48): warning C4715: 'Hotel::canAfford': not all control paths return a value
+  LINK : E:\USB BACK UP\Jordan Murray\Term 2\C++\Project\File to Submit\x64\Debug\Project 1.4.exe not found or not built by the last incremental link; performing full link
+  Project 1.4.vcxproj -> E:\USB BACK UP\Jordan Murray\Term 2\C++\Project\File to Submit\x64\Debug\Project 1.4.exe
+  Project 1.4.vcxproj -> E:\USB BACK UP\Jordan Murray\Term 2\C++\Project\File to Submit\x64\Debug\Project 1.4.pdb (Full PDB)

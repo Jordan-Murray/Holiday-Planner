@@ -1,0 +1,5 @@
+Paris 80
+London 70
+Rome 90
+Glasgow 20
+SanFransisco 60

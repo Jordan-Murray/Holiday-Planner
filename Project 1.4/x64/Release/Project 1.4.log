@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Destination.cpp
+  Hotel.cpp
+  main.cpp
+main.cpp(217): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.cpp(235): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.cpp(293): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(387): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+e:\usb back up\jordan murray\term 2\c++\project\project1.4\project 1.4\project 1.4\hotel.cpp(48): warning C4715: 'Hotel::canAfford': not all control paths return a value
+  All 238 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project 1.4.vcxproj -> E:\USB BACK UP\Jordan Murray\Term 2\C++\Project\Project1.4\Project 1.4\x64\Release\Project 1.4.exe
+  Project 1.4.vcxproj -> E:\USB BACK UP\Jordan Murray\Term 2\C++\Project\Project1.4\Project 1.4\x64\Release\Project 1.4.pdb (Full PDB)
